@@ -8,6 +8,8 @@
 
 A responsive, single-page marketing website for SoftSell, a fictional software license resale startup.
 
+LIVE LINK:- https://softsell-licenseresale.netlify.app/
+
 ## About SoftSell
 
 SoftSell is a platform designed to simplify the process of reselling software licenses. We provide a secure and efficient way for businesses to monetize their unused software assets, and for buyers to acquire licenses at competitive prices. Our mission is to create a sustainable and cost-effective ecosystem for software management.
